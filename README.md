@@ -23,8 +23,11 @@ The goal is to build a structured archive of techniques, vulnerabilities, and at
 
 | Machine | OS    | Difficulty | Topics                                                                                                      |
 | ------- | ----- | ---------- | ----------------------------------------------------------------------------------------------------------- |
-| Reactor | Linux | Easy       | *(coming soon)*                                                                                             |
-| Orion   | Linux | Easy       | Craft CMS, CVE-2025-32432, Web Enumeration, MariaDB Database Enumeration, Password Cracking (john), Privilege Escalation, Telnet 2.7, CVE-2026-24061 |
+| Alert   | Linux | Easy       | path traversal, .htpasswd, reverse shell, SSH port forwarding|
+| Reactor | Linux | Easy       | *(Not public yet)*                          |                                                          
+| Orion   | Linux | Easy       | Craft CMS, CVE-2025-32432, Web Enumeration, MariaDB Database Enumeration, Password Cracking (john), Privilege Escalation, Telnet 2.7, CVE-2026-24061 
+| Enigma  | Linux | Easy       | *(Not public yet)* |
+
 
 ---
 
